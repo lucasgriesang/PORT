@@ -1,0 +1,15 @@
+.materias{
+    padding: 10px 8px;
+    width: 500px ;
+    color: rgb(255, 255, 255);
+    background-color: rgb(62, 130, 255);
+    border: 5px solid rgb(17, 0, 255);
+    border-radius: 20px;
+    text-align: center;
+    user-select: nome;
+    cursor: pointer;
+    font-size: 30px;
+    }
+    body{
+background-color: aqua;
+    }

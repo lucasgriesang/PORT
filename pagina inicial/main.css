@@ -1,0 +1,53 @@
+body{
+background-image: linear-gradient(to bottom, rgb(2, 130, 255),rgb(0, 0, 0));
+height: 110vh;
+text-align: center;
+
+}
+
+.cap{
+padding: 10px 8px;
+width: 500px ;
+color: rgb(255, 255, 255);
+background-color: rgb(136, 72, 255);
+border: 5px solid rgb(0, 0, 0);
+border-radius: 20px;
+text-align: center;
+user-select: nome;
+cursor: pointer;
+font-size: 30px;
+}
+
+.titulo{
+    color: aliceblue;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.cap:hover{
+    transition:   1s;
+background: rgba(0, 0, 0, 0);
+
+}
+.inicio{
+    background-color: rgb(92, 5, 255);
+    width: 500px ;
+    font-size: 80px;
+
+}
+.inicio:hover{
+    transition:   1s;
+background: rgba(0, 0, 0, 0);
+
+}
+.sobre{
+color: aliceblue;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin: 5em;
+}
