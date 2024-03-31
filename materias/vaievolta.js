@@ -1,21 +1,21 @@
 function humanas(){
-    window.location.href = "http://127.0.0.1:5500/materias/humanas.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/humanas.html"
 }
 function linguagem(){
-    window.location.href = "http://127.0.0.1:5500/materias/linguagem.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/linguagem.html"
 }
 function matematica(){
-    window.location.href = "http://127.0.0.1:5500/materias/matematica.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/matematica.html"
 }
 function Natureza(){
-    window.location.href = "http://127.0.0.1:5500/materias/natureza.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/natureza.html"
 }
 function tecnico(){
-    window.location.href = "http://127.0.0.1:5500/materias/tecnico.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/tecnico.html"
 }
 function voltar(){
-    window.location.href = "http://127.0.0.1:5500/pagina%20inicial/main.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/pagina%20inicial/main.html"
 }
 function volta2(){
-    window.location.href = "http://127.0.0.1:5500/materias/capatodasaulas.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/capatodasaulas.html"
 }
