@@ -14,7 +14,7 @@ function tecnico(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/tecnico.html"
 }
 function voltar(){
-    window.location.href = "https://lucasgriesang.github.io/PORT/pagina%20inicial/main.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/"
 }
 function volta2(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/capatodasaulas.html"
