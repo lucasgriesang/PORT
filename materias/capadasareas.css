@@ -1,7 +1,9 @@
 body{
     background-image: linear-gradient(to bottom, rgb(2, 130, 255),rgb(0, 0, 0));
     height: 100vh;
+    width: 100vh;
     text-align: center;
+    
     }
     
 .h1{
