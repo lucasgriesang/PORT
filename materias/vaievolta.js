@@ -19,3 +19,7 @@ function voltar(){
 function volta2(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/capatodasaulas.html"
 }
+function atv1h(){
+    window.open = "https://docs.google.com/forms/d/e/1FAIpQLSeZyRtkfz6W7vXgu-DJIYGt5XNRviKAJKf4qHUyqzlWpIsOmQ/viewform"
+}
+
