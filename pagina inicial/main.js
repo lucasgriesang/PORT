@@ -11,6 +11,6 @@ function ppe() {
     window.location.href= "https://lucasgriesang.github.io/PORT/materias/PPE.html"
 }
 function certificados() {
-    window.location.href = "https://lucasgriesang.github.io/PORT/certi.html"
+    window.location.href = "https://lucasgriesang.github.io/PORT/pagina%20inicial/certi.html"
 
 }
