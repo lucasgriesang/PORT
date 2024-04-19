@@ -14,3 +14,6 @@ function certificados() {
     window.location.href = "https://lucasgriesang.github.io/PORT/pagina%20inicial/certi.html"
 
 }
+function voltar(){ 
+    window.location.href = "https://lucasgriesang.github.io/PORT"
+}
