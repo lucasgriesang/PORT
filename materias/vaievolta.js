@@ -19,5 +19,9 @@ function voltar(){
 function volta2(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/capatodasaulas.html"
 }
-
+function Modelagem_de_Sistemas(){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Modelagem_de_Sistemas.html"
+}function Banco_de_Dados(){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Banco_de_Dados.html"
+}
 
