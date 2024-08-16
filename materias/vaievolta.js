@@ -1,3 +1,6 @@
+function dados(){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Banco_de_Dados.html"
+}
 function humanas(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/humanas.html"
 }
@@ -27,8 +30,5 @@ function sistemas(){
 }
 function Manutenção(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/Implantação_Manutenção.html"
-}
-function banco(){
-    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Banco_de_Dados.html"
 }
 
