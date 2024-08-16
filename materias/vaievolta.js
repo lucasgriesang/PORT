@@ -22,7 +22,10 @@ function volta2(){
 function Modelagem(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/Modelagem_de_Sistemas.html"
 }
-function Banco(){
-    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Banco_de_Dados.html"
+function sistemas(){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Desenvolvimento_de_Sistemas.html"
+}
+function Manutenção(){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Implantação_Manutenção"
 }
 
