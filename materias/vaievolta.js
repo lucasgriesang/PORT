@@ -26,6 +26,6 @@ function sistemas(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/Desenvolvimento_de_Sistemas.html"
 }
 function Manutenção(){
-    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Implantação_Manutenção"
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/Modelagem_de_Sistemas.html"
 }
 
