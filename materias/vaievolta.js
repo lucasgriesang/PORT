@@ -31,4 +31,9 @@ function sistemas(){
 function Manutenção(){
     window.location.href = "https://lucasgriesang.github.io/PORT/materias/Implantação_Manutenção.html"
 }
-
+function Aplicativos (){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/aplicativo.html"
+}
+function teste (){
+    window.location.href = "https://lucasgriesang.github.io/PORT/materias/teste.html"
+}
